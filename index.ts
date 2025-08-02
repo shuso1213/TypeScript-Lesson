@@ -1,1 +1,1 @@
-console.log("hello");
+let hasValue: boolean = true;
