@@ -1,1 +1,10 @@
-let hasValue: boolean = true;
+let a: number = 1;
+
+a += 1;
+a += 1;
+a += 1;
+a += 1;
+a += 1;
+
+
+console.log(a);
